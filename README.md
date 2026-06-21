@@ -225,22 +225,20 @@ Users can dynamically filter reports using:
 Restaurant-Sales-Analysis/
 │
 ├── Data/
-│   └── Restaurant_Sales.parquet
+│   ├── Restaurant_Sales.parquet          # Raw dataset
+│   └── Restaurant_Sales_Cleaned.xlsx     # Cleaned dataset
+│
+├── Analysis/
+│   └── Restaurant_Sales_Analysis.ipynb   # Data Cleaning & EDA
 │
 ├── Dashboard/
-│   └── Restaurant_Sales_Dashboard.pbix
+│   └── Restaurant_Sales_Dashboard.pbix   # Power BI Dashboard
 │
 ├── Images/
-│   └── dashboard.png
+│   └── dashboard.png                     # Dashboard Screenshot
 │
-├── Documentation/
-│   └── Project_Report.pdf
-│
-└── README.md
+└── README.md                             # Project Documentation
 ```
-
----
-
 ## 🚀 Project Workflow
 
 1. Data Collection
