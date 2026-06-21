@@ -214,7 +214,7 @@ Users can dynamically filter reports using:
 
 ## 📸 Dashboard Preview
 
-<img width="100%" alt="Restaurant Dashboard" src=""C:\Users\JAGADEESH\OneDrive\Pictures\Screenshots\Screenshot 2026-06-21 180931.png"">
+<img width="100%" alt="Restaurant Dashboard" src="C:\Users\JAGADEESH\OneDrive\Pictures\Screenshots\Screenshot 2026-06-21 180931.png">
 
 ---
 
